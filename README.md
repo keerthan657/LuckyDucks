@@ -6,3 +6,6 @@ There are ducks that are spawned in the scene, which have to figure out a way to
 A number of generations will be simulated, and we can see how the ducks evolve to go to the target in certain number of generations. 
 Increase the lifespan of the entire simulation using the slider at the bottom of the screen, and restarting by pressing the button - "Restart". 
 The number of total ducks will be 200, which can be changed in the code - Controller.cs file. Other parameters are self-explanatory, and the code is sufficiently commented to get through various genetic algorithm phases.
+
+Credits to: Coding Train's explanation in this YT video(https://www.youtube.com/watch?v=bGz7mv2vD6g)
+This Unity project is an attempt to learn how genetic algorithm works.
